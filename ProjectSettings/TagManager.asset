@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Guard_Flashlight
+  - Enemy Confiner
+  - Enemy
+  - Key
+  - Stone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - Ladder
+  - Player
+  - Front Background
+  - Background
+  - Stone
+  - Guard
+  - GuardConfiner
+  - Doors
+  - Key
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4267862699
+    locked: 0
+  - name: FrontBack
+    uniqueID: 2009968245
+    locked: 0
+  - name: Doors
+    uniqueID: 255549055
+    locked: 0
+  - name: Platform
+    uniqueID: 2815220443
+    locked: 0
+  - name: Accessory
+    uniqueID: 1410460447
+    locked: 0
+  - name: Key
+    uniqueID: 4128791275
+    locked: 0
+  - name: Fog
+    uniqueID: 2079672393
+    locked: 0
+  - name: Stone
+    uniqueID: 1785350753
+    locked: 0
+  - name: Guard
+    uniqueID: 707290381
+    locked: 0
+  - name: Player
+    uniqueID: 841289585
+    locked: 0
